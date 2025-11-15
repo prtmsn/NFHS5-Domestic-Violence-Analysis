@@ -1,2 +1,5 @@
 # NFHS5-Domestic-Violence-Analysis
-Analysis of domestic violence patterns using NFHS-5 IR dataset with weighted tabulation, chi-square tests, STATA code, and visualizations.
+Statistical analysis using STATA, weighted tabulation, Chi-square tests, and NFHS-5 (IR file) to understand domestic violence patterns among women in India.
+Project Overview
+
+This project explores how domestic violence varies across key socio-demographic factors such as education, wealth, marital status, residence, age, religion, and husband’s alcohol consumption, using the NFHS-5 dataset.
