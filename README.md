@@ -23,6 +23,11 @@ This project explores how domestic violence varies across key socio-demographic 
  • Husband’s alcohol consumption strongly increases violence risk
  • Women who are separated/divorced show the highest prevalence
  • Education (woman & husband) and wealth act as protective factors
+ 
+📝 Note on Interpretation  
+ Some religious categories in the NFHS-5 dataset have very small sample sizes.  
+ Percentages for these groups may appear unusually high or low and should be interpreted with caution.  
+ These variations reflect socio-economic and household characteristics in the sample, not religion itself.
 
 📁Files in This Repository
  • code/nfhs5_dv_analysis.do — STATA analysis script
