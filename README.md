@@ -30,7 +30,7 @@ This project explores how domestic violence varies across key socio-demographic 
  • report/DOMESTIC VIOLENCE IN INDIA.pptx — Presentation summarizing all findings
  
 📄 Full Report
- View Online (Google Drive):** [Click here](https://drive.google.com/file/d/14wTiweD5hzfVo5xkSACTQ0uthwDV-GwA/view?usp=drive_link)
+ View Online (Google Drive): [Click here](https://drive.google.com/file/d/14wTiweD5hzfVo5xkSACTQ0uthwDV-GwA/view?usp=drive_link)
 
 
 👤 Author
