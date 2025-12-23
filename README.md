@@ -39,6 +39,6 @@ This project explores how domestic violence varies across key socio-demographic 
 
 
 👤 Author
- Pratim Sen
+ Pratim Sen,
  Master’s Student, Survey Research & Data Analytics
  International Institute for Population Sciences (IIPS)
